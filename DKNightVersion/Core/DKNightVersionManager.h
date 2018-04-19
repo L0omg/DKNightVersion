@@ -103,7 +103,7 @@ extern CGFloat const DKNightVersionAnimationDuration;
 /** 
  *  This method is deprecated, use `- [DKNightVersion sharedManager]` instead
  */
-+ (DKNightVersionManager *)sharedNightVersionManager __deprecated_msg("use `- [DKNightVersion sharedManager]` instead");
+//+ (DKNightVersionManager *)sharedNightVersionManager __deprecated_msg("use `- [DKNightVersion sharedManager]` instead");
 
 @end
 
